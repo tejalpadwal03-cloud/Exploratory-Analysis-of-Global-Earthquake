@@ -1,10 +1,10 @@
-🌍 Project Summary
-🔎 Objective
+ Project Summary
+ Objective
 
 The project analyzes global earthquake data from 2001 to 2022 to understand seismic behavior, identify patterns in magnitude, depth, and tsunami occurrence, and determine key factors contributing to tsunami generation.
 The study aims to reveal long-term trends, regional clustering, and relationships between earthquake characteristics and tsunami risk.
 
-📊 Methodology
+Methodology
 
 Dataset Used: Global Earthquake–Tsunami dataset (2001–2022)
 
@@ -22,7 +22,7 @@ Geographic distribution plots (Latitude vs Longitude)
 
 Correlation and density analysis (heatmaps, KDE plots)
 
-🌋 Key Findings
+Key Findings
 
 Stable Global Trend: Earthquake frequency remained relatively stable over the 22-year period, with no strong upward or downward trend.
 
@@ -36,7 +36,7 @@ Regional Clusters: High tsunami activity was observed in the Pacific Ring of Fir
 
 Major Events: Catastrophic earthquakes (≥8.0 magnitude) were rare but devastating, notably in 2004 and 2011, both triggering significant tsunamis.
 
-🌊 Insights
+Insights
 
 Magnitude and Depth Correlation: Large, shallow earthquakes are more likely to cause tsunamis.
 
