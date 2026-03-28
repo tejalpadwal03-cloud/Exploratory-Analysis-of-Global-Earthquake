@@ -1,4 +1,5 @@
  Project Summary
+ 
  Objective
 
 The project analyzes global earthquake data from 2001 to 2022 to understand seismic behavior, identify patterns in magnitude, depth, and tsunami occurrence, and determine key factors contributing to tsunami generation.
